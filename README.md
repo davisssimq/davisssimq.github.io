@@ -7,6 +7,7 @@ Cílem je naučit se:
 - tvorbu jednoduchého shell skriptu
 - plánování úloh pomocí cron
 - automatizaci záloh dat
+
 ---
 
 ## Použité technologie
@@ -30,7 +31,3 @@ Cílem je naučit se:
 # Instalace a nastavení
 
 ## 1️) Instalace cron
-
-```bash
-sudo apt update
-sudo apt install cron -y
