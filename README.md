@@ -16,6 +16,7 @@ Cílem je naučit se:
 - Bash (shell skript)
 - cron (plánování úloh)
 - tar (komprese dat)
+
 ---
 
 ## Jak to funguje
